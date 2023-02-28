@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 25px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.placeholder{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+
+}
